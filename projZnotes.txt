@@ -1,0 +1,6 @@
+           <!-- ID provides a unique identifier for the view, ref obj from code -->
+           <!-- @ is req when referring to any resource obj from XML restype/resname -->
+           <!-- + sign only needed when def a res ID for first time in gen/R.java -->
+           <!-- Need to add two string resources in res/values/strings.xml -->
+           <!-- Instead of wrap this improves performance when using weight values -->
+           <!-- Fills space with whatever is left (default is 0) -->
